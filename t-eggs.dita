@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t-eggs">
+    <title></title>
+    <shortdesc audience="armando">The egg</shortdesc>
+    <shortdesc audience="mom">Make sure that you do not cook the eggs too soon or they will get cold.</shortdesc>
+    <taskbody>
+        <prereq>
+            <p>This is what you will need to make the eggs
+                <ul>
+                    <li></li>
+                </ul>
+            </p>
+        </prereq>
+        <prereq audience="mom">
+            <p>You should have already cooked the bacon and the sausage.</p>
+        </prereq>
+        <prereq audience="mom">
+            <p>Gather all of the following:
+                <ul>
+                    <li>Small glass bowl (in the cabinet next to the fridge)</li>
+                    <li
+                </ul>
+            </p>
+        </prereq>
+        <steps>
+            <step>
+                <cmd>Crack as many eggs as you want in the bowl. Four is a recommended number just so that you can make more than one burrutio - in case I come home.</cmd>
+            </step>
+            <step>
+                <cmd>Whisk the eggs until they are a consistant color and consistency. more bubbles make them fluffier</cmd>
+            </step>
+            <step>
+                <cmd>Add as many </cmd>
+            </step>
+            <step audience="mom">
+                <cmd>This is the place to add lots of cheese if you want it in the burritos.</cmd>
+            </step>
+         <step>
+             <cmd></cmd>
+         </step>
+            <step>
+                <cmd></cmd>
+            </step>
+            </step>
+            <step>
+                <cmd></cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

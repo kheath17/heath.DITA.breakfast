@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map-mom.dtd">
+<map>
+ <title/>
+ <topicref href="c-intro_mom.dita"/>
+ <topicref href="task-stove.dita"/>
+ <topicref href="t-meat.dita"/>
+ <topicref href="t-veggies.dita"/>
+ <topicref href="t-eggs.dita"/>
+ <topicref href="t-assemble.dita"/>
+</map>
