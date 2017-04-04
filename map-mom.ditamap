@@ -2,6 +2,11 @@
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map-mom.dtd">
 <map>
  <title/>
+ <keydef keys="breakfast-name">
+  <topicmeta>
+   
+  </topicmeta>
+ </keydef>
  <topicref href="c-intro_mom.dita"/>
  <topicref href="task-stove.dita"/>
  <topicref href="t-meat.dita"/>

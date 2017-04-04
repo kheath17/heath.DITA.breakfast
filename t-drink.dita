@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
-<task id="task_rnj_tdj_kz">
-    <title>How to Assemble the Burrito</title>
+<task id="t-drink">
+    <title><keyword keyref="drink-title"/></title>
     <shortdesc/>
     <taskbody>
         <context>
-            <p>Okay <keyword keyref="person-name"/>, it is time to put the burrito together </p>
+            <p audience="mom"></p>
+            <p audience="armando"></p>
         </context>
         <steps>
             <step>
                 <cmd></cmd>
+            </step>
+            <step> 
+                <cmd></cmd>
+            </step>
+            <step>
+                 <cmd></cmd>
             </step>
         </steps>
     </taskbody>

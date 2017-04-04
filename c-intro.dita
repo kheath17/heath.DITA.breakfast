@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="concept_intro" audience="armando">
- <title>Vegan Southwest Breakfast</title>
+ <title><keyword keyref="breakfast-name"/></title>
  <shortdesc></shortdesc>
  <conbody>
-  <p></p>
+  <p>Hello <keyword keyref="person-name"/> I hope you like this</p>
  </conbody>
 </concept>
