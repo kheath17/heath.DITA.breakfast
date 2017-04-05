@@ -2,14 +2,32 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="t-hashbrowns">
     <title>How to Make Hashbrowns</title>
-    <shortdesc/>
+    <shortdesc>Potatoes go with every meal.</shortdesc>
     <taskbody>
+        <prereq>The Things You Will Need:
+            <ul>
+                <li>1 potato</li>
+                <li>2 tbsp. olive oil</li>
+                <li>Grater</li>
+                <li>Medium-sized skillet (Use the same one from the vegetables)</li>
+            </ul>
+        </prereq>
         <context>
-            <p></p>
+            <p>Here's how you cook them:</p>
         </context>
+        
         <steps>
             <step>
-                <cmd></cmd>
+                <cmd>Completely shred the potato.</cmd>
+            </step>
+            <step>
+                <cmd>Heat the skillet on high on the stove, and pour in the olive oil.</cmd>
+            </step>
+            <step>
+                <cmd>Put the potatoes in the skillet and stir for 10 minutes.</cmd>
+            </step>
+            <step>
+                <cmd>Put the hashbrowns onto your plate.</cmd>
             </step>
         </steps>
     </taskbody>

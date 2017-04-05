@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+   <appContext helpID="concept_intro" path="c-intro_armando.html"/>
+   <appContext helpID="how_to_make_the_chickpeas" path="t-peas.html"/>
+   <appContext helpID="t-veggies" path="t-veggies.html"/>
+   <appContext helpID="t-eggs" path="t-eggs.html"/>
+   <appContext helpID="t-assemble" path="t-assemble.html"/>
+   <appContext helpID="t-hashbrowns" path="t-hashbrowns.html"/>
+   <appContext helpID="t-avocados" path="xt-guac.html"/>
+   <appContext helpID="t-milk" path="t-milk.html"/>
+   <appContext helpID="t-drink" path="t-drink.html"/>
+</map>

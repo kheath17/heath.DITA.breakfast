@@ -1,51 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="t-eggs">
-    <title></title>
-    <shortdesc audience="armando">The egg</shortdesc>
-    <shortdesc audience="mom">Make sure that you do not cook the eggs too soon or they will get cold.</shortdesc>
+    <title>How to Make the Eggs</title>
+    <shortdesc>This is what makes the breakfast burrito great!</shortdesc>
     <taskbody>
         <prereq>
+            <p>Make sure that you do not cook the eggs too soon before you are ready to assemble your burrito or they will get cold.</p>
+            <p audience="mom">You should have already cooked the bacon, the vegetables, and the black beans.</p>
+            <p audience="armando">You should have already cooked the chickpeas and the vegetables.</p>
             <p>This is what you will need to make the eggs
                 <ul>
-                    <li></li>
+                    <li>Eggs - 2 eggs per burrito</li>
+                    <li>Salt</li>
+                    <li>Pepper</li>
+                    <li audience="mom">Small glass bowl (In the top cabinet next to the sink)</li>
+                    <li audience="armando">Small glass bowl</li>
+                    <li>Wisk</li>
+                    <li audience="armando">Small skillet</li>
+                    <li audience="mom">Small skillet (In the bottom cabinet next to the fridge)</li>
                 </ul>
             </p>
         </prereq>
-        <prereq audience="mom">
-            <p>You should have already cooked the bacon and the sausage.</p>
-        </prereq>
-        <prereq audience="mom">
-            <p>Gather all of the following:
-                <ul>
-                    <li>Small glass bowl (in the cabinet next to the fridge)</li>
-                    <li
-                </ul>
-            </p>
-        </prereq>
+    
         <steps>
             <step>
                 <cmd>Crack as many eggs as you want in the bowl. Four is a recommended number just so that you can make more than one burrutio - in case I come home.</cmd>
             </step>
+            
             <step>
-                <cmd>Whisk the eggs until they are a consistant color and consistency. More bubbles make them fluffier</cmd>
-            </step>
-            <step>
-                <cmd>Add as many </cmd>
+                <cmd>Crack as many eggs into the small glass bowl as you need for the number of burritos that you want</cmd>
             </step>
             <step audience="mom">
                 <cmd>This is the place to add lots of cheese if you want it in the burritos.</cmd>
             </step>
          <step>
-             <cmd></cmd>
+             <cmd>Season with salt and pepper to your liking.</cmd>
          </step>
             <step>
-                <cmd></cmd>
+                <cmd>Wisk the eggs until they are one color and consistency. More bubbles make them fluffier.</cmd>
             </step>
+           
+            <step>
+                <cmd>Heat the skillet to medium heat and pour in the eggs.</cmd>
             </step>
             <step>
-                <cmd></cmd>
+                <cmd>Stir and flip the eggs in the skillet for about 5 minutes, then remove them from heat.</cmd>
             </step>
         </steps>
+        <postreq>
+            <p audience="mom" conref="ts-stove.dita#ts-stove/fixstove"/>
+            <p>Okay <keyword keyref="person-name"/>, are you ready to assemble your burrito?</p>
+        </postreq>
     </taskbody>
 </task>

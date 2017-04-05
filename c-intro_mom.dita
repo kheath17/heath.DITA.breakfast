@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="c-intro_mom">
- <title>Southwesten Breakfast</title>
- <shortdesc>I know that you are new to my apartment's kitchen, but I will let you know al of the items that you should use, and where they are located. I picked this breakfast for you because everything that you need is in the apartment (and it is yummy!).</shortdesc>
+ <title>Southwestern Breakfast</title>
+ <shortdesc>Welcome to my apartment <keyword keyref="person-name"/>!</shortdesc>
  <conbody>
-  <p></p>
+  <p>I know that you are new to my apartment's kitchen, but I will let you know all of the items that you should use, and where they are located. I picked this breakfast for you because everything that you need is in the apartment (and it is yummy!). Start with the instructions for the burrito, and from there go anywhere.</p>
  </conbody>
 </concept>

@@ -1,16 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
-<task id="task_rnj_tdj_kz">
+<task id="t-assemble">
     <title>How to Assemble the Burrito</title>
-    <shortdesc/>
+    <shortdesc>Okay <keyword keyref="person-name"/>, it is time to put the burrito together.</shortdesc>
     <taskbody>
+        <prereq>
+            <p audience="mom">You should already have the bacon, vegetables, black beans, and eggs prepared.</p>
+            <p audience="armando">You should already have the chickpeas, vegetables, and eggs prepared.</p>
+            <p>
+                The only thing that you will need to assemble the burrito is a flour or corn tortilla.
+            </p>
+        </prereq>
         <context>
-            <p>Okay <keyword keyref="person-name"/>, it is time to put the burrito together </p>
+            <p></p>
         </context>
         <steps>
+            <step audience="mom">
+                <cmd>Place the bacon, vegetables, black beans, and eggs onto the flat tortilla in any proportions that you want.</cmd>
+            </step>
+            <step audience="armando">
+                <cmd>Place the chickpeas, vegetables, and eggs onto the flat tortilla in any proportions that you want.</cmd>
+            </step>
             <step>
-                <cmd></cmd>
+                <cmd>Roll the tortilla up, and it is ready to eat.</cmd>
             </step>
         </steps>
+        <postreq>
+            <image audience="mom" href="burrito.jpeg"/>
+            <image audience="armando" href="vburrito.jpg"/>
+            <p>Quickly make the rest of the breakfast so that you can eat!</p>
+        </postreq>
     </taskbody>
 </task>

@@ -2,7 +2,16 @@
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD LW DITA Topic//EN" "topic.dtd">
 <topic id="xt-coffee">
   <title>How to Make Coffee</title>
+  <shortdesc/>
   <body>
-    <p></p>
+    <p>The coffee maker is new and there are a few differences from standard ones. This is what you will do:</p>
+    <ol>
+      <li><p>Put 4 tbsp. from the coffee in the cabinet above the stove into the screen filter.</p></li>
+      <li><p>Add water to the reservoir.</p></li>
+      <li><p>Turn the dial to the single mug.</p></li>
+      <li><p>Make sure the drip switch above the caraffe is on.</p></li>
+      <li><p>Click the "Rich Brew" button.</p></li>
+      <li><p>Wait 3 minutes, and then pour your coffee into a mug from the cabinet above the sink.</p></li>  
+    </ol>
   </body>
 </topic>

@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD LW DITA Topic//EN" "topic.dtd">
 <topic id="t-avocados">
-  <title>How to Prepare avocados</title>
+  <title>How to Perfectly Slice Avocados</title>
+  <shortdesc>Fresh avocados are a great addition to a burrito.</shortdesc>
   <body>
-    <p></p>
+    <ol>
+      <li><p>Grab an avocado from the produce bowl on the counter that is both green and brown.</p></li>
+      <li><p>Cut the avocado perfectly in half.</p></li>
+      <li><p>Lay each half face down, and cut them in slices 1 cm in width.</p></li>
+      <li><p>Put those slices on your plate.</p></li>
+      
+    </ol>
+    <p>Keep making the rest of your breakfast!</p>
   </body>
 </topic>

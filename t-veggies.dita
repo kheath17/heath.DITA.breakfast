@@ -1,16 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
-<task id="task_vmk_rdj_kz">
-    <title></title>
-    <shortdesc/>
+<task id="t-veggies">
+    <title>How to Make the Vegetables</title>
+    <shortdesc>Vegetables will add a lot of extra flavor to your burrito.</shortdesc>
     <taskbody>
+        <prereq>
+            <p>The Things You Will Need:</p>
+            <ul>
+                <li>1 green pepper</li>
+                <li>1 tomato</li>
+                <li>1 onion</li>
+                <li>1 tbsp. olive oil</li>
+                <li audience="armando">Medium skillet</li>
+                <li audience="mom">Medium skillet (in the bottom cabinet next to the fridge.)</li>
+            </ul>
+        </prereq>
         <context>
-            <p></p>
+            <p>To cook them:</p>
         </context>
         <steps>
             <step>
-                <cmd></cmd>
+                <cmd>Heat the skillet to medium heat.</cmd>
+            </step>
+            
+            <step>
+                <cmd>Dice the vegetables (to about 1 square cm each)</cmd>
+            </step>
+            <step>
+                <cmd>Pour the olive oil into the skillet.</cmd>
+            </step>
+            <step>
+                <cmd>Toss in the diced vegetables.</cmd>
+            </step>
+            <step>
+                <cmd>Stir until the vegetables are soft and the onions are brown, and then remove from heat</cmd>
             </step>
         </steps>
+         <postreq>
+             <p>You can set this aside until it is time to assemble your burrito.</p>
+         </postreq> 
     </taskbody>
 </task>

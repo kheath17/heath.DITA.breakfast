@@ -1,7 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map>
- <title/>
- <topicref href="c-intro_armando.dita"/>
- <topicref href="t-peas.md" format="markdown"/>
+ <title>Vegan Southwestern Breakfast</title>
+ <keydef keys="person-name">
+  <topicmeta>
+   <keywords>
+    <keyword>Armando</keyword>
+   </keywords>
+  </topicmeta>
+ </keydef>
+ <keydef keys="drink-title">
+  <topicmeta>
+   <keywords>
+    <keyword>Orange Juice</keyword>
+   </keywords>
+  </topicmeta>
+ </keydef>
+ 
+ <topicref href="c-intro_armando.dita" navtitle="Welcome!"/>
+ <topichead navtitle="The Burrito">
+ <topicref href="t-peas.md" format="markdown">
+  <topicmeta>
+   <shortdesc>This is a great substitute for meat.</shortdesc>
+  </topicmeta>
+ </topicref>
+ <topicref href="t-veggies.dita"/>
+ <topicref href="t-eggs.dita"/>
+ <topicref href="t-assemble.dita"/>
+ </topichead>
+ <topichead navtitle="Side Items">
+ <topicref href="t-hashbrowns.dita"/>
+ <topicref href="xt-guac.dita"/>
+ </topichead>
+ <topichead navtitle="Drinks">
+ <topicref href="t-milk.dita"/>
+ <topicref href="t-drink.dita"/>
+ </topichead>
 </map>

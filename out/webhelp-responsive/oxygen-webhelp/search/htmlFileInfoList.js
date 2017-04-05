@@ -1,0 +1,10 @@
+fil = new Array();
+fil["0"]= "ditabreakfast/c-intro_armando.html@@@Vegan Southwestern Breakfast@@@I came up with this breakfast with you and your special vegan food needs in mind...";
+fil["1"]= "ditabreakfast/t-assemble.html@@@How to Assemble the Burrito@@@Okay Armando, it is time to put the burrito together...";
+fil["2"]= "ditabreakfast/t-drink.html@@@How to Get Yourself Orange Juice@@@You can top this breakfast off with a fresh glass of orange juice. Get one of the nice glasses from the cabinet above the sink. Fill it to the top with the orange juice that I just bought...";
+fil["3"]= "ditabreakfast/t-eggs.html@@@How to Make the Eggs@@@This is what makes the breakfast burrito great!...";
+fil["4"]= "ditabreakfast/t-hashbrowns.html@@@How to Make Hashbrowns@@@Potatoes go with every meal...";
+fil["5"]= "ditabreakfast/t-milk.html@@@How to Make Vanilla Milk@@@This is a good way to add some sweetness to the side of your meal...";
+fil["6"]= "ditabreakfast/t-peas.html@@@How to Make the Chickpeas@@@This is going to be the protein for your meal, you can improvize with any complementary spices that you want, but this is my recommendation. The Things You Will Need: Chickpeas (2-3 oz. per burrito)...";
+fil["7"]= "ditabreakfast/t-veggies.html@@@How to Make the Vegetables@@@Vegetables will add a lot of extra flavor to your burrito...";
+fil["8"]= "ditabreakfast/xt-guac.html@@@How to Perfectly Slice Avocados@@@Fresh avocados are a great addition to a burrito...";

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t-milk">
+    <title>How to Make Vanilla Milk</title>
+    <shortdesc>This is a good way to add some sweetness to the side of your meal</shortdesc>
+    <taskbody>
+        <prereq>
+           
+            <p> The Things You Will Need:
+               <ul>
+                   <li audience="armando">Soy Milk</li>
+                   <li audience="mom">2% Milk</li>
+                   <li>Vanilla extract</li>
+               </ul>
+            </p>
+        </prereq>
+        <context>
+            <p>How to make it:</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Pour one cup of milk.</cmd>
+            </step>
+            <step>
+                <cmd>Add 1 tsp. of vanilla extract and stir.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

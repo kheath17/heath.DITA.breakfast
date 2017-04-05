@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t-beans">
+    <title>How to Make the Black Beans</title>
+    <shortdesc>Black beans make the texture so much better!</shortdesc>
+    <taskbody>
+        <prereq>
+            <p>The Things You Will Need:
+                <ul>
+                    <li>Black beans (2-3 oz. per burrito)</li>
+                    <li>Small pot (In the drawer under the oven)</li>
+                </ul>
+            </p>
+        </prereq>
+        <context>
+            <p>To cook them:</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Boil a surplus amount of water in the small pot.</cmd>
+            </step>
+            <step>
+                <cmd>Add the beans and cook for 20 minutes.</cmd>
+            </step>
+            <step>
+                <cmd>Remove it from heat and strain out the water.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>
